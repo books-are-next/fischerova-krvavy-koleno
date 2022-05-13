@@ -1,0 +1,375 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Krvavý koleno",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Sylva Fischerová",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-08-17T00:00:00.000Z",
+    "published": "2021-08-17T07:25:16.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/krvavy_koleno_043.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_krvavy_koleno.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Bojujíce proti zlu",
+      "href": "OEBPS/Text/krvavy_koleno_005.xhtml"
+    },
+    {
+      "title": "I.",
+      "children": [
+        {
+          "title": "V krvavém snu slov",
+          "href": "OEBPS/Text/krvavy_koleno_007.xhtml#_idParaDest-2"
+        },
+        {
+          "title": "Brána osvícení",
+          "href": "OEBPS/Text/krvavy_koleno_008.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "Stroj světa",
+          "href": "OEBPS/Text/krvavy_koleno_009.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "Neznáme tvar citů",
+          "href": "OEBPS/Text/krvavy_koleno_010.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "Já, jako všichni",
+          "href": "OEBPS/Text/krvavy_koleno_011.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "Co je člověk",
+          "href": "OEBPS/Text/krvavy_koleno_012.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "Svět je plný květin",
+          "href": "OEBPS/Text/krvavy_koleno_013.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "Cesta nikam",
+          "href": "OEBPS/Text/krvavy_koleno_014.xhtml#_idParaDest-9"
+        },
+        {
+          "title": "Chleba není — však kdo?",
+          "href": "OEBPS/Text/krvavy_koleno_015.xhtml#_idParaDest-10"
+        },
+        {
+          "title": "Slepci",
+          "href": "OEBPS/Text/krvavy_koleno_016.xhtml#_idParaDest-11"
+        },
+        {
+          "title": "Jsou dny kdy neumím žít",
+          "href": "OEBPS/Text/krvavy_koleno_017.xhtml#_idParaDest-12"
+        },
+        {
+          "title": "Náhlý pocit",
+          "href": "OEBPS/Text/krvavy_koleno_018.xhtml#_idParaDest-13"
+        },
+        {
+          "title": "Obrazy vycházejí z jediného bodu",
+          "href": "OEBPS/Text/krvavy_koleno_019.xhtml#_idParaDest-14"
+        }
+      ],
+      "href": "OEBPS/Text/krvavy_koleno_006.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "II.",
+      "children": [
+        {
+          "title": "Mezi ikonami palčivých otázek",
+          "href": "OEBPS/Text/krvavy_koleno_021.xhtml#_idParaDest-16"
+        },
+        {
+          "title": "Vajíčka a noviny a káva",
+          "href": "OEBPS/Text/krvavy_koleno_022.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "Jazyk je cizí slovo",
+          "href": "OEBPS/Text/krvavy_koleno_023.xhtml#_idParaDest-18"
+        },
+        {
+          "title": "Houpačka v hlubinách chaosu",
+          "href": "OEBPS/Text/krvavy_koleno_024.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "A přece se hýbeme dopředu, dozadu, do stran",
+          "href": "OEBPS/Text/krvavy_koleno_025.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "Trajekt Livorno–Sardínie",
+          "href": "OEBPS/Text/krvavy_koleno_026.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "Bílé kosti světa",
+          "href": "OEBPS/Text/krvavy_koleno_027.xhtml#_idParaDest-22"
+        },
+        {
+          "title": "Čas není spád, nýbrž pád",
+          "href": "OEBPS/Text/krvavy_koleno_028.xhtml#_idParaDest-23"
+        },
+        {
+          "title": "Krvavý koleno",
+          "href": "OEBPS/Text/krvavy_koleno_029.xhtml#_idParaDest-24"
+        },
+        {
+          "title": "Jsou dušičky",
+          "href": "OEBPS/Text/krvavy_koleno_030.xhtml#_idParaDest-25"
+        },
+        {
+          "title": "Kde?",
+          "href": "OEBPS/Text/krvavy_koleno_031.xhtml#_idParaDest-26"
+        },
+        {
+          "title": "Faraónova dcera",
+          "href": "OEBPS/Text/krvavy_koleno_032.xhtml#_idParaDest-27"
+        },
+        {
+          "title": "Kdo dělá dějiny?",
+          "href": "OEBPS/Text/krvavy_koleno_033.xhtml#_idParaDest-28"
+        },
+        {
+          "title": "Králík hoplík",
+          "href": "OEBPS/Text/krvavy_koleno_034.xhtml#_idParaDest-29"
+        },
+        {
+          "title": "Pláň Pravdy",
+          "href": "OEBPS/Text/krvavy_koleno_035.xhtml#_idParaDest-30"
+        },
+        {
+          "title": "Epizoda",
+          "href": "OEBPS/Text/krvavy_koleno_036.xhtml#_idParaDest-31"
+        },
+        {
+          "title": "Svatá komedie",
+          "href": "OEBPS/Text/krvavy_koleno_037.xhtml#_idParaDest-32"
+        },
+        {
+          "title": "Musíš vést ty ovečky",
+          "href": "OEBPS/Text/krvavy_koleno_038.xhtml#_idParaDest-33"
+        },
+        {
+          "title": "Kolotoč",
+          "href": "OEBPS/Text/krvavy_koleno_039.xhtml#_idParaDest-34"
+        },
+        {
+          "title": "Měsíční polívka",
+          "href": "OEBPS/Text/krvavy_koleno_040.xhtml#_idParaDest-35"
+        },
+        {
+          "title": "Řím",
+          "href": "OEBPS/Text/krvavy_koleno_041.xhtml#_idParaDest-36"
+        }
+      ],
+      "href": "OEBPS/Text/krvavy_koleno_020.xhtml#_idParaDest-15"
+    },
+    {
+      "title": "Ediční poznámka",
+      "href": "OEBPS/Text/krvavy_koleno_042.xhtml#_idParaDest-37"
+    }
+  ]
+}

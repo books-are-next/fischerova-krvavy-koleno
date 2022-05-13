@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Krvavý koleno</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Bojujíce proti zlu</text>
+      </navLabel>
+      <content src="Text/krvavy_koleno_005.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>I.</text>
+      </navLabel>
+      <content src="Text/krvavy_koleno_006.xhtml#_idParaDest-1"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>V krvavém snu slov</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_007.xhtml#_idParaDest-2"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Brána osvícení</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_008.xhtml#_idParaDest-3"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Stroj světa</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_009.xhtml#_idParaDest-4"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Neznáme tvar citů</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_010.xhtml#_idParaDest-5"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Já, jako všichni</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_011.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Co je člověk</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_012.xhtml#_idParaDest-7"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Svět je plný květin</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_013.xhtml#_idParaDest-8"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Cesta nikam</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_014.xhtml#_idParaDest-9"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Chleba není — však kdo?</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_015.xhtml#_idParaDest-10"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Slepci</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_016.xhtml#_idParaDest-11"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Jsou dny kdy neumím žít</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_017.xhtml#_idParaDest-12"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Náhlý pocit</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_018.xhtml#_idParaDest-13"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>Obrazy vycházejí z jediného bodu</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_019.xhtml#_idParaDest-14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>II.</text>
+      </navLabel>
+      <content src="Text/krvavy_koleno_020.xhtml#_idParaDest-15"/>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Mezi ikonami palčivých otázek</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_021.xhtml#_idParaDest-16"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Vajíčka a noviny a káva</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_022.xhtml#_idParaDest-17"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Jazyk je cizí slovo</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_023.xhtml#_idParaDest-18"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Houpačka v hlubinách chaosu</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_024.xhtml#_idParaDest-19"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>A přece se hýbeme dopředu, dozadu, do stran</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_025.xhtml#_idParaDest-20"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Trajekt Livorno–Sardínie</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_026.xhtml#_idParaDest-21"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Bílé kosti světa</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_027.xhtml#_idParaDest-22"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Čas není spád, nýbrž pád</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_028.xhtml#_idParaDest-23"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Krvavý koleno</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_029.xhtml#_idParaDest-24"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Jsou dušičky</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_030.xhtml#_idParaDest-25"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Kde?</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_031.xhtml#_idParaDest-26"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Faraónova dcera</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_032.xhtml#_idParaDest-27"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Kdo dělá dějiny?</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_033.xhtml#_idParaDest-28"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Králík hoplík</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_034.xhtml#_idParaDest-29"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Pláň Pravdy</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_035.xhtml#_idParaDest-30"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Epizoda</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_036.xhtml#_idParaDest-31"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Svatá komedie</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_037.xhtml#_idParaDest-32"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Musíš vést ty ovečky</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_038.xhtml#_idParaDest-33"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Kolotoč</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_039.xhtml#_idParaDest-34"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Měsíční polívka</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_040.xhtml#_idParaDest-35"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Řím</text>
+        </navLabel>
+        <content src="Text/krvavy_koleno_041.xhtml#_idParaDest-36"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Ediční poznámka</text>
+      </navLabel>
+      <content src="Text/krvavy_koleno_042.xhtml#_idParaDest-37"/>
+    </navPoint>
+  </navMap>
+</ncx>
