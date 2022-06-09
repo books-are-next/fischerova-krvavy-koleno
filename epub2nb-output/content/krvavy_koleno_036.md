@@ -1,19 +1,17 @@
 ---
-title: ''
+title: Epizoda
 contentType: prose
 ---
 
-Epizoda
+_I kdyby to všechno mělo být jen  
+                                                epizodou  
+              výkřikem v dějinách vesmíru_
 
-> I kdyby to všechno mělo být jen  
->                                                 epizodou  
->               výkřikem v dějinách vesmíru
+_dá se leda stát  
+s hledím zdviženým  
+              vůči zhůvěřilosti své  
+                                       i cizí —_
 
-> dá se leda stát  
-> s hledím zdviženým  
->               vůči zhůvěřilosti své  
->                                        i cizí —
-
->          jak rytíř Naděje, své Paní,  
->                 na balkóně s výhledem  
->                                           na věčnost
+         _jak rytíř Naděje, své Paní,  
+                na balkóně s výhledem  
+                                          na věčnost_

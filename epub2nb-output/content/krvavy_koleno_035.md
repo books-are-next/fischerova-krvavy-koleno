@@ -1,38 +1,36 @@
 ---
-title: ''
+title: Pláň Pravdy
 contentType: prose
 ---
 
-Pláň Pravdy
-
-Kteří z těchto mužů  
+_Kteří z těchto mužů  
                       byli Platónovými současníky?  
-           Sókratés–Kristus–Buddha–Mohamed.
+           Sókratés–Kristus–Buddha–Mohamed._
 
-> Žádný! Nic!  
->             Všichni ho předešli  
->             tam odkud se vylívá  
->                                                  slovo a duch  
->             nepachtili se jako on nad brkem,  
->             ale nad lidmi!
+_Žádný! Nic!  
+            Všichni ho předešli  
+            tam odkud se vylívá  
+                                                 slovo a duch  
+            nepachtili se jako on nad brkem,  
+            ale nad lidmi!_
 
-> A tak jako vždycky:  
->             pár mladíků dychtivých poznání  
->                                                             nebo spásy  
->                         a mudrc nebo prorok  
->                         v bílém sloupoví  
->                         a slunce jim buší do hlav  
->                                                                   a do země.  
->                         Obnažuje myšlenky  
->                                     až na kost,  
->                         všechny ty leklé ryby  
->                                     co ještě včera uměly plavat:  
-> Ano a Ne a Kdo a Co,  
-> celé obžalované bytí  
->                         mizí za obzor,  
->                         za čáru horizontu –
+_A tak jako vždycky:  
+            pár mladíků dychtivých poznání  
+                                                            nebo spásy  
+                        a mudrc nebo prorok  
+                        v bílém sloupoví  
+                        a slunce jim buší do hlav  
+                                                                  a do země.  
+                        Obnažuje myšlenky  
+                                    až na kost,  
+                        všechny ty leklé ryby  
+                                    co ještě včera uměly plavat:  
+Ano a Ne a Kdo a Co,  
+celé obžalované bytí  
+                        mizí za obzor,  
+                        za čáru horizontu –_
 
-Tam leží Pláň Pravdy  
+_Tam leží Pláň Pravdy  
 uvnitř plochy trojúhelníka, kde spočívá všech  
                                          sto osmdesát tři světů,  
 světy se naklánějí k sobě a vypadá to, jako by tančily,  
@@ -45,14 +43,14 @@ se čas odlamuje ve vrstvách
 a odchází k jednotlivým světům  
 a všecko září,  
 tady jsme krásu  
-                              viděli zářit —
+                              viděli zářit —_
 
-> Pár mladíků  
->             mezi tesanými ztuhlými sloupy  
->             které nemají ani ten milý žlutý  
->                                                 odstín lebek.
+_Pár mladíků  
+            mezi tesanými ztuhlými sloupy  
+            které nemají ani ten milý žlutý  
+                                                odstín lebek._
 
->             Hranice obzoru je vždycky o kus blíž  
->                                                 než si myslíme,  
->             o plátek slaniny krájený  
->                         rukama šestinedělek.
+            _Hranice obzoru je vždycky o kus blíž  
+                                                než si myslíme,  
+            o plátek slaniny krájený  
+                        rukama šestinedělek._
