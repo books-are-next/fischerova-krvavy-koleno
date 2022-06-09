@@ -3,13 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
-
-  
-
-  
-
-Bojujíce proti zlu  
+_Bojujíce proti zlu  
 které rozpoznávali v sobě  
 bojujíce proti sobě  
 a vyčerpaní bojem  
@@ -19,4 +13,4 @@ Stáli ověšeni nemožnými úkoly
 na místě, které nemohlo být,  
 a přece právě to bylo jejich místo  
 a o něm  
-měli vydat svědectví
+měli vydat svědectví_
