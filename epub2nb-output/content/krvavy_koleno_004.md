@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Krvavý koleno](https://search.mlp.cz/cz/titul/krvavy-koleno/2495839/#/getPodobneTituly=deskriptory-eq:33106519-amp:key-eq:2495839) tak, jak bylo vydáno nakladatelstvím Petrov v Brně v roce 2005. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,4 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 20. 8. 2021.
 
+</section>
+
+<section>
+
 ![](../Images/image002.jpg)
+
+</section>

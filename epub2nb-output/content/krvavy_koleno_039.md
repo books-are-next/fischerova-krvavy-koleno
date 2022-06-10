@@ -3,6 +3,8 @@ title: Kolotoč
 contentType: prose
 ---
 
+<section>
+
 _A bránu stínu smrti viděl jsi?  
 Mluvil jsi s démony?  
 Viděl jsi jejich svítivé obličeje,  
@@ -40,3 +42,5 @@ děti loudí popkorn
 a zmatení démoni pijou grog,  
 nikdo nechce jít pro brambůrky  
 tak kdy už bude konec?_
+
+</section>

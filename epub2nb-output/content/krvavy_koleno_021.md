@@ -3,6 +3,8 @@ title: Mezi ikonami palčivých otázek
 contentType: prose
 ---
 
+<section>
+
 _Mezi ikonami palčivých otázek  
 a v nejasnosti darů  
 Jak začít? Které slovo  
@@ -13,11 +15,19 @@ nebo jenom položit
                          nohu před nohu  
 a stoupnout na propast z mlh —_
 
+</section>
+
+<section>
+
 _Svět valí před sebou  
                         své haraburdy  
 a tlačí na srdce jak na míč  
 Jak dýchat natož  
                                    vyprávět?_
+
+</section>
+
+<section>
 
 _Žena se zlatými hodinkami na ruce bez prstů  
                                     v Petrské čtvrti  
@@ -42,9 +52,15 @@ _Tvoření Boha, byť dokonalé,
 musí být nedokonalé, neboť Bůh nemůže  
 tvořit sebe sama.__
 
+</section>
+
+<section>
+
 _Logiko, ach ty logiko!  
 Kotli Středozemí, cikádo, která neumí nezpívat,  
 rajská zahrado oliv, ty nápodobo boha, modlo!  
 Ty! Ikona Ano, ikona Ne,  
 dvě děti si hrají  
 v písku nebe._
+
+</section>

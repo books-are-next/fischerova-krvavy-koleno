@@ -3,6 +3,8 @@ title: Bílé kosti světa
 contentType: prose
 ---
 
+<section>
+
 _Tyhle dějiny  
              jsou dějiny tebe.  
 Opakuješ všechny chyby lidstva.  
@@ -16,6 +18,10 @@ jak socha revoluce.
 Nechala jsi děti pomřít na mor.  
 A pak sis sedla do kouta  
                          a plakala…_
+
+</section>
+
+<section>
 
 _To je svět západu: kost na kosti,  
       kámen na kameni,  
@@ -33,3 +39,5 @@ _To je svět západu: kost na kosti,
                                                       jablka východu  
       spěchající na pohřeb Řecka,  
                  do kotle Chairóneje._
+
+</section>

@@ -3,6 +3,8 @@ title: A přece se hýbeme dopředu, dozadu, do stran
 contentType: prose
 ---
 
+<section>
+
 _A proč by to mělo  
                                     dopadnout dobře?  
 Proč bych si měla myslet,  
@@ -38,3 +40,5 @@ nebe nám mává sebou
 a posílá své navštívenky,  
 dnes o páté přijde doktor,  
 vstaň, utři stůl, nachystej čaj._
+
+</section>

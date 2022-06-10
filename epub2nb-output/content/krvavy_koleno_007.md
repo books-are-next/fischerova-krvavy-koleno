@@ -3,10 +3,16 @@ title: V krvavém snu slov
 contentType: prose
 ---
 
+<section>
+
 _Už je to natvrdo a nedá se to vzít zpátky.  
 Všechno jde přímo a nevrhá stín,  
 takže ztrácí se člověk,  
 stín stínu, stín ve snu, sen stínu…_
+
+</section>
+
+<section>
 
 _Čas se zužuje, roste jak pyramida.  
 Cesta k ní je vroubena květy.  
@@ -29,3 +35,5 @@ vržený do květů,
                       do stínu snu květů…  
 Pozná svůj příběh  
                       v krvavém snu slov?_
+
+</section>

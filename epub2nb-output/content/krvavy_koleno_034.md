@@ -3,6 +3,8 @@ title: Králík hoplík
 contentType: prose
 ---
 
+<section>
+
 _Řekla, že pocit, který ji jímá nad světem  
 i nad sebou, je vděčnost.  
 Vděčnost za všechno.  
@@ -21,3 +23,5 @@ a celé podbarvuje
 hudba neslyšitelného času  
 a ta tě bere za srdce, vykroucené, strašně bušící,  
 které občas poskočí jako králík hoplík._
+
+</section>

@@ -3,6 +3,8 @@ title: Svatá komedie
 contentType: prose
 ---
 
+<section>
+
 _Nevkročit  
 do toho vchodu,  
 nad kterým je nápis  
@@ -39,3 +41,5 @@ Komedie i Pokora,
 dokola  
 do krve  
 dohola._
+
+</section>

@@ -3,15 +3,25 @@ title: Obrazy vycházejí z jediného bodu
 contentType: prose
 ---
 
+<section>
+
 _Obrazy vycházejí z jediného bodu  
             a kladou se za sebou  
                                      jako okamžiky._
+
+</section>
+
+<section>
 
 _Je to první den, idea dobra  
 anebo jenom JEST —  
 Vlast idejí  
 je vlast lásky,  
                         tam nebo kdekoli._
+
+</section>
+
+<section>
 
 _Jenže oni tomu říkají Metafora,  
 říkají Nesmíte si to brát  
@@ -21,6 +31,10 @@ jeho dotazník na mě ráno co ráno
             vrhá kýty vzpomínek,  
             ty žerou čas jak naftu  
             a řítí se pořád dál, na raketový pohon._
+
+</section>
+
+<section>
 
 _Ale někde je vlast idejí  
              jako vlast lásky,  
@@ -42,3 +56,5 @@ berou ti slovo
 nemáš nic  
 jsi němá  
 Musíš začít znova._
+
+</section>

@@ -3,6 +3,8 @@ title: "*\_*\_*"
 contentType: prose
 ---
 
+<section>
+
 _Čas není spád, nýbrž pád  
                          z Ano do Ne  
                          z Ne do zeleně —  
@@ -13,10 +15,18 @@ kde duní činy, zločiny otčiny
              otloukané o bílé kosti  
                                       lidskosti_
 
+</section>
+
+<section>
+
 _Čas je přepad  
 přes okraj ploché země  
 do kobky vesmíru  
 kde není ani bufet s pivem a hrachovkou_
+
+</section>
+
+<section>
 
 _Čas je jen nápad  
            sester ctihodných, černých, co utekly  
@@ -27,6 +37,10 @@ A ty, člověče kopřiv, bdi a neumdlévej!
 Čas je jen případ a bude zavřen do kriminálu  
            jara a léta a pozdních podzimů  
 — ale ty s ním!_
+
+</section>
+
+<section>
 
 _A za to dostaneš  
                                   půvab toho všeho,  
@@ -44,3 +58,5 @@ kde v bufetu Panenka Maria
             rozdává svatý obrázky  
             a nalívá hrachovku  
             všem poutníkům i milým mrtvým…_
+
+</section>

@@ -3,9 +3,15 @@ title: Pláň Pravdy
 contentType: prose
 ---
 
+<section>
+
 _Kteří z těchto mužů  
                       byli Platónovými současníky?  
            Sókratés–Kristus–Buddha–Mohamed._
+
+</section>
+
+<section>
 
 _Žádný! Nic!  
             Všichni ho předešli  
@@ -13,6 +19,10 @@ _Žádný! Nic!
                                                  slovo a duch  
             nepachtili se jako on nad brkem,  
             ale nad lidmi!_
+
+</section>
+
+<section>
 
 _A tak jako vždycky:  
             pár mladíků dychtivých poznání  
@@ -30,6 +40,10 @@ celé obžalované bytí
                         mizí za obzor,  
                         za čáru horizontu –_
 
+</section>
+
+<section>
+
 _Tam leží Pláň Pravdy  
 uvnitř plochy trojúhelníka, kde spočívá všech  
                                          sto osmdesát tři světů,  
@@ -45,12 +59,22 @@ a všecko září,
 tady jsme krásu  
                               viděli zářit —_
 
+</section>
+
+<section>
+
 _Pár mladíků  
             mezi tesanými ztuhlými sloupy  
             které nemají ani ten milý žlutý  
                                                 odstín lebek._
 
+</section>
+
+<section>
+
             _Hranice obzoru je vždycky o kus blíž  
                                                 než si myslíme,  
             o plátek slaniny krájený  
                         rukama šestinedělek._
+
+</section>

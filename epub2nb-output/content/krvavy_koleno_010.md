@@ -3,6 +3,8 @@ title: Neznáme tvar citů
 contentType: prose
 ---
 
+<section>
+
 _Trojúhelník nenávisti,  
 kruh lásky,  
 čtverec osudu… neznáme  
@@ -15,6 +17,10 @@ kterou tu pohodily děti:
 ty jsou modré a běhají  
                                      po zahradě  
 a hledají schované figurky zvířat._
+
+</section>
+
+<section>
 
 _Svět je plný lásky jak balón  
 a stejně zranitelný,  
@@ -36,3 +42,5 @@ a láska dofukuje svět
 a někdo pláče  
 Hirošima, hloh, mrtvý balónek  
 a pořád někdo pláče_
+
+</section>
