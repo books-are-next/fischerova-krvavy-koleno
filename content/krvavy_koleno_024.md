@@ -3,6 +3,8 @@ title: Houpačka v hlubinách chaosu
 contentType: prose
 ---
 
+<section>
+
 _Někdy přicházejí mrtví. Vlídnější  
           než démoni,  
 opakují že nás milují  
@@ -20,6 +22,10 @@ krátký spoj metafory, oči jak kružítka
                                     v tunelu do prázdna,  
                           slova!_
 
+</section>
+
+<section>
+
 _Dítě se houpe na houpačce  
             uprostřed chaosu.  
 Chaos je bílý, rumělkově zlatý,  
@@ -29,6 +35,10 @@ Dítě se houpe na houpačce a dobře
 se dívá. Za chvíli se zvedne  
 a půjde se  
 do kuchyně najíst._
+
+</section>
+
+<section>
 
 _V kuchyni je chleba s máslem  
           a hořčicí.  
@@ -45,3 +55,5 @@ přicházíme za mrtvými,
 kameníme každou vteřinou, jsme  
 sochy z hořčice, jinak  
 nemůžeme žít._
+
+</section>

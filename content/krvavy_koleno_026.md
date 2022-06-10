@@ -3,6 +3,8 @@ title: Trajekt Livorno–Sardínie
 contentType: prose
 ---
 
+<section>
+
 _Slyším slova, jak ke mně  
            přicházejí, odvážná,  
            seřazená  
@@ -41,3 +43,5 @@ Má víra v to že to zase
            smutné obočí i oči  
            a váhavý, jasný úsměv  
                                   pro tebe a pro mě_
+
+</section>

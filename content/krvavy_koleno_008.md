@@ -3,6 +3,8 @@ title: Brána osvícení
 contentType: prose
 ---
 
+<section>
+
 _Co potom? Držet ztracenou vartu,  
 nepřiznat porážku, ani kdyby  
                                                        ti zela do tváře —  
@@ -12,6 +14,10 @@ a že přežiješ —
 a nad těmi druhými, kteří v plášti  
                                                              pozdních chodců  
       si nasazují znamení svobody_
+
+</section>
+
+<section>
 
 _Ale na každém místě je vztyčena  
                                                                brána osvícení  
@@ -27,8 +33,14 @@ a oni
          modlící se sádrový chlapeček  
                                               uprostřed příboje_
 
+</section>
+
+<section>
+
 _Na každém místě  
 je brána osvícení, uvidět  
 znamená slepotu, bílou duhu, dívej se  
 do ní, pak  
                        to přežiješ_
+
+</section>

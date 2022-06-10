@@ -3,10 +3,16 @@ title: Slepci
 contentType: prose
 ---
 
+<section>
+
 _Lež nemá co získat —  
                                   leda zase sebe  
 jak chodíš mezi jejími zborcenými domy  
              lesy ze slov a zámlk_
+
+</section>
+
+<section>
 
 _Lež pluje na třaslavých píscích  
 jako had jí svůj ocas, svůj život  
@@ -33,3 +39,5 @@ jeden od druhého, jeden k druhému
 těch se slepci drží  
 a tak  
             táhnou dál_
+
+</section>

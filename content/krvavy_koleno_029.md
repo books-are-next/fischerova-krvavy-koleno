@@ -3,6 +3,8 @@ title: Krvavý koleno
 contentType: prose
 ---
 
+<section>
+
 _Proč končí verš dřív než stránka?  
 Co se děje v prostoru za ním?  
 Vytváří se místo pro nádech, jako když první krok vzhůru  
@@ -19,3 +21,5 @@ vedle slaniny a babiččiny podprsenky
 jako v dětské hře:  
 jí lidský maso, pije lidskou krev  
 a leží na ničem._
+
+</section>

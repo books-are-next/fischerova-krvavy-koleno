@@ -3,6 +3,8 @@ title: Jsou dny kdy neumím žít
 contentType: prose
 ---
 
+<section>
+
 _Jsou dny kdy neumím žít  
 nevím proč jde žena  
 proti mně, má jeden nos  
@@ -37,3 +39,5 @@ hadřík sebe,
 kruh  
 uprostřed na pykané  
 sedí bůh_
+
+</section>

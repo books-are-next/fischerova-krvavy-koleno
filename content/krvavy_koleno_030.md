@@ -3,12 +3,18 @@ title: Jsou dušičky
 contentType: prose
 ---
 
+<section>
+
 _Génius je  
            vyseté srdce přírody  
 ústa chryzantémy  
 co se usmívají do umírání  
            zespod, od slunce umrlých,  
                                     světla zrcadla —_
+
+</section>
+
+<section>
 
 _Kupte si svíčky a věnce, žlutou limonádu  
            a cukrovou vatu!  
@@ -25,6 +31,10 @@ výseč, oko skákacího panáka,
 z kterého nikdy neuměli vyskočit —  
 a pili rum a kmínku,  
 vypili výčepní lihovinu a odpluli k andělům —_
+
+</section>
+
+<section>
 
 _Chryzantémy ve váze srkají žlutou limonádu,  
                                                         jsou dušičky  
@@ -47,6 +57,10 @@ ale už bez lidí —
 tam, kde teď všichni skřítci dětských let  
                          vynášejí z podzemí lesklé poklady._
 
+</section>
+
+<section>
+
 _Pak tu budu stát  
             očištěná jak tuřín  
             zářivá jako mrkev  
@@ -56,3 +70,5 @@ a já
      vražená do oka skákacího panáka  
 uslyším jak prázdno v lebce příběhu  
                                        se mi ozývá_
+
+</section>

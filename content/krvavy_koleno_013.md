@@ -3,10 +3,16 @@ title: Svět je plný květin
 contentType: prose
 ---
 
+<section>
+
 _A proč zlo nevyhraje?  
 A proč se tolik podobá  
             tomu, cos miloval?  
 Co ti dá sílu přežít?_
+
+</section>
+
+<section>
 
 _— To láska mate,  
 bere si těla a masky,  
@@ -21,6 +27,10 @@ a srdce pláče, ale pak i ono směněno
 vidí, že je nejmocnější  
 protože nejúskočnější…_
 
+</section>
+
+<section>
+
 _A to je podobnost:  
 jako-člověk  
 v jako-světě  
@@ -34,4 +44,10 @@ jejich zabití kráčejí proti nim
 a vedle nich a s nimi  
 svět je plný květin_
 
+</section>
+
+<section>
+
 _Svět je plný květin._
+
+</section>

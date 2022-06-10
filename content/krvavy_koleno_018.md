@@ -3,6 +3,8 @@ title: Náhlý pocit
 contentType: prose
 ---
 
+<section>
+
 _Náhlý pocit, že toto vidění světa jako nejasného,  
 necelého, krutě nespojitého — kam je teprve násilím  
 implantován smysl, abychom přežili —  
@@ -16,3 +18,5 @@ svrchovaným malířským aktem, který z nespojitých linií
 vytvoří matku sklánící se nad dítětem, Madonu,  
 jejíž mrtvý syn  
 má zachránit svět, který je taky na fašírku…_
+
+</section>

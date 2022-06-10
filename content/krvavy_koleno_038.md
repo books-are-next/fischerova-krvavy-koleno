@@ -3,6 +3,8 @@ title: Musíš vést ty ovečky
 contentType: prose
 ---
 
+<section>
+
 _Sen křísnul o sen  
 a smrtka na kole  
 objíždí dědiny.  
@@ -34,3 +36,5 @@ skončíte u vlka, v gehenně složené
              a malé lásky  
              a z dýmajícího mozku, v který se nakonec  
                                     proměnilo svědomí._
+
+</section>

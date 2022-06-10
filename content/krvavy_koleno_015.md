@@ -3,6 +3,8 @@ title: Chleba není — však kdo?
 contentType: prose
 ---
 
+<section>
+
 _Však kdo postaví nová okna  
                                        staré katedrály?  
 Kdo popraví staré století  
@@ -34,6 +36,10 @@ když ne odpověď
 pro člověka, mistra —  
                 pomahače u smečky makaků…_
 
+</section>
+
+<section>
+
 _Kdo popraví staré století?  
 Je čím dál těžší,  
 koberec z prostříleného salónu kam fičí  
@@ -43,6 +49,10 @@ barevná mapa násilí: Otesánek
                         bez ohledu na aritmetiku,  
                         tedy lidskost v kabátě —_
 
+</section>
+
+<section>
+
 _Jestliže věc je vyslovena, není to lék  
 ani vykoupení.  
 Ukázat prstem neznamená nic.  
@@ -51,6 +61,10 @@ jak barva v růži, a co je svět?
               vyšeptalý seznam věcí které se rodí  
               rostou a umírají  
                                   v nudné melodii konce?_
+
+</section>
+
+<section>
 
 _Když vystřelím slovo ze srdce,  
 pohne kamenem v egyptské pyramidě —  
@@ -63,3 +77,5 @@ a člověk půjde po jediném tónu houslí
 až na kraj okršleku světa, kde usnul  
                                                                    Bůh,  
                  chlapec s popelavými vlásky…_
+
+</section>

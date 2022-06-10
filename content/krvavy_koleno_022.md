@@ -3,10 +3,16 @@ title: Vajíčka a noviny a káva
 contentType: prose
 ---
 
+<section>
+
 _Vajíčka a noviny a káva  
 jsou první lží světa,  
 říkají, že je  
                         v pořádku._
+
+</section>
+
+<section>
 
 _„Jaký pořádek, když trvá  
 smilstvo tvé matky  
@@ -14,6 +20,10 @@ Jezábely a množství jejích čárů?“
 řekl Jehú králi Jóramovi,  
 napjal luk a zasáhl ho  
                                    mezi lopatky._
+
+</section>
+
+<section>
 
 _Jaký pořádek, když každé  
 ráno je postavena archa  
@@ -35,6 +45,10 @@ Noviny tvého srdce
 jsou černé jako noc  
 a ošklivé jako Medúza!__
 
+</section>
+
+<section>
+
 _Na vlnách soucitné kávy  
 pluje Noé ránem dál  
 kolem zdvihajících se rolet krámů  
@@ -43,3 +57,5 @@ které otevírají zavírají
              své zářivé plátky  
 a vydechují lítost  
 kterou je vytapetován svět_
+
+</section>

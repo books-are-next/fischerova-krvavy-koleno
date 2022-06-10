@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 _Bojujíce proti zlu  
 které rozpoznávali v sobě  
 bojujíce proti sobě  
@@ -14,3 +16,5 @@ na místě, které nemohlo být,
 a přece právě to bylo jejich místo  
 a o něm  
 měli vydat svědectví_
+
+</section>
