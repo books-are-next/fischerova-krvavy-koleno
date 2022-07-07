@@ -6,12 +6,12 @@ contentType: prose
 <section>
 
 _„Jsem katolička,“ řekla ta prostitutka, nasadila si klobouk  
-                                 a pokračovala v chůzi  
+            a pokračovala v chůzi  
 „Jsem silně věřící,“ řekl a odešel  
-                                                              za milenkou  
+            za milenkou  
 „Jsme malomocní,“ řekl Karel a měl pravdu,  
 jsme malomocní, ovšem, faraónova dcera prý vešla do  
-                                                                                   Nilu nahá,  
+            Nilu nahá,  
 neboť trpěla malomocenstvím,  
 tam plula ošatka s malým Mojžíšem, natáhla po ní ruku  
 a v tu chvíli byla uzdravena, s kůží  

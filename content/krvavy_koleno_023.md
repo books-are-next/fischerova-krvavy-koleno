@@ -15,9 +15,9 @@ jak slámou.
 Kdo řekl, že řeč a svět  
 spolu nesouvisí? Obezdil se  
 plotem nespojitých vteřin a  
-                       nemožností, světem rozsekaným jak cibule,  
-                       rozpáleným na pánvi,  
-                       pochoutkou kanibalů?_
+            nemožností, světem rozsekaným jak cibule,  
+            rozpáleným na pánvi,  
+            pochoutkou kanibalů?_
 
 </section>
 

@@ -15,7 +15,7 @@ Rudá je ona, dáma
 s korunou, falešná karta,  
 kterou tu pohodily děti:  
 ty jsou modré a běhají  
-                                     po zahradě  
+            po zahradě  
 a hledají schované figurky zvířat._
 
 </section>
@@ -25,19 +25,19 @@ a hledají schované figurky zvířat._
 _Svět je plný lásky jak balón  
 a stejně zranitelný,  
 všechny tvoje životy se v pokoji pomalu  
-                                     rozloží  
+            rozloží  
 v sadu barevných kostek  
 zapadajících do sebe,  
 uvnitř malí homunkulové,  
-                    rozevřené orchideje,  
+            rozevřené orchideje,  
 šátrají, koho by mohly lapit a milovat.  
 Den přetéká jako zmrzlina  
 a kostky se zpátky nesloží,  
 jeden vztyčený  
-                           okamžik,  
+            okamžik,  
 Hirošima, je to Berlín, tisíc  
-               růžových lístků hlohu  
-               se snáší na mrtvolu  
+            růžových lístků hlohu  
+            se snáší na mrtvolu  
 a láska dofukuje svět  
 a někdo pláče  
 Hirošima, hloh, mrtvý balónek  

@@ -8,11 +8,11 @@ contentType: prose
 _Mezi ikonami palčivých otázek  
 a v nejasnosti darů  
 Jak začít? Které slovo  
-             vybrat?  
+            vybrat?  
 Je to Bůh —  
 nebo Dobro —  
 nebo jenom položit  
-                         nohu před nohu  
+            nohu před nohu  
 a stoupnout na propast z mlh —_
 
 </section>
@@ -20,17 +20,17 @@ a stoupnout na propast z mlh —_
 <section>
 
 _Svět valí před sebou  
-                        své haraburdy  
+            své haraburdy  
 a tlačí na srdce jak na míč  
 Jak dýchat natož  
-                                   vyprávět?_
+            vyprávět?_
 
 </section>
 
 <section>
 
 _Žena se zlatými hodinkami na ruce bez prstů  
-                                    v Petrské čtvrti  
+            v Petrské čtvrti  
 chlapeček otloukající  
 měsíčky mandarinky o nemocniční chodbu  
 Proč? ptali se ho. Proč, mistře,  
@@ -45,9 +45,9 @@ můžeme za to my,
 lapení v ikoně večera,  
 kvetoucí oleandr, vazká pochyba?  
 Nebo se trhlina táhne  
-                       napříč stvořením  
+            napříč stvořením  
 skrz šiky andělů a čarou  
-                                                 smlouvy —  
+            smlouvy —  
 _Tvoření Boha, byť dokonalé,  
 musí být nedokonalé, neboť Bůh nemůže  
 tvořit sebe sama.__

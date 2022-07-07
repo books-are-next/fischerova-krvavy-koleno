@@ -16,7 +16,7 @@ která proklouzla dějinami jako myš sýrem,
 čili skrze žárlivou prozřetelnost.  
 A ještě údiv nad tím, že to všechno přežiju, a možná i vás,  
 tedy údiv na druhou, podle Aristotela počátek  
-                                                               vší filosofie,  
+            vší filosofie,  
 která je psaná krví, leštěná nocí, visí  
 na parapetu okna, papír je ze stažených vnitřností  
 a celé podbarvuje  

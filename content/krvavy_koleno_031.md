@@ -9,7 +9,7 @@ _Daleko na nebi ležel bílý mrak stlučený
 z bílých vousů a cukrového rašení, mrak zimnice,  
 mrak chinin, té horečky pod severním nebem,  
 muži v kožiších, ženy v kožiších, téměř bez otázek,  
-                                                                                         smlčení_
+            smlčení_
 
 </section>
 
@@ -38,7 +38,7 @@ polévka žal, nelze se zeptat,_
 
 _kterou oblohou je slunce dětsky modré,  
 pokouřit o dětství, Samuel z vedlejší třídy, baletní  
-                                                                                     hierarchie  
+            hierarchie  
 obloh, operní hierarchie barev, zeleně kvetoucí jabloň  
 s bílými listy, neptat se, pod kterou oblohou se  
 neumírá, vyhozené_
@@ -55,11 +55,11 @@ neumírá, vyhozené_
 
 _hrneček s barevnou polevou odpočívá svědomí,  
 muži táhnou na lov, MASO MASO, zákeřné domy se  
-                                                                                      propadají  
+            propadají  
 do země, návraty nejsou, mužové,  
 vysvobodíme starý příběh zrození, žena a krev,  
 pod severním nebem muži s vychladlými vousy  
-                                                                                      nezabíjejí  
+            nezabíjejí  
 ženy odcizelé dětmi, jsou zákony, proboha  
 jaké zákony, všecko_
 

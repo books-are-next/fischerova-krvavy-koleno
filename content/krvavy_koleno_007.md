@@ -17,23 +17,23 @@ stín stínu, stín ve snu, sen stínu…_
 _Čas se zužuje, roste jak pyramida.  
 Cesta k ní je vroubena květy.  
 Pěvci předzpěvují  
-                           známé příběhy  
-                           s neznámým koncem.  
+            známé příběhy  
+            s neznámým koncem.  
 Podává se maso. Co je  
-                                tam nahoře?  
+            tam nahoře?  
 Zúžený člověk  
 zobojkovaný svými volbami  
 lapá po dechu,  
 stoupá v komoře z darů a lží a nedospaných rán,  
-                                                               z lásky.  
+            z lásky.  
 Všechna jeho Já z něho padají.  
 Háže je po těch druhých. Co je  
 tam nahoře? Co je  
 tam dole? Slyší  
 svůj příběh, oblouk svého dechu  
 vržený do květů,  
-                      do stínu snu květů…  
+            do stínu snu květů…  
 Pozná svůj příběh  
-                      v krvavém snu slov?_
+            v krvavém snu slov?_
 
 </section>

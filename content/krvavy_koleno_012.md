@@ -9,7 +9,7 @@ __Co mohu vědět?
           Co mám činit?  
           V co smím doufat?_  
           ptá se člověk, a tak je sám  
-                                   otázkou_
+            otázkou_
 
 </section>
 
@@ -27,7 +27,7 @@ plné ztuhlých kamenných oblud._
 
 _Co? Co tedy dnes?  
 Lapat čas jak rybu? Lapat sebe  
-                                     nebo tebe?  
+            nebo tebe?  
 Čas je fluidum. A čím  
 jsi odlišná ty —  
 hmatatelností očí, rukou beroucích  
@@ -43,12 +43,12 @@ sem nemají přístup.
 Jako Bůh: mít ustavičně  
 všecko před sebou.  
 Sibiř i Saharu, ruku obkrouženou  
-                                    výčitkou  
+            výčitkou  
 a kolesové parníky na Mississippi.  
 Ženy převálcované muži,  
 muži ženami,  
 všichni placatí jako perníkové srdce z pouti:  
-                                                                    _Z lásky._  
+            _Z lásky._  
 _Co je člověk?_ ptá se muž  
 _Co je člověk?_ ptá se žena  
 obklopeni hermafroditními slimáky  
@@ -57,7 +57,7 @@ A hned si odpoví, jenže odpověď
 je _out of date_ jako starý šek.  
 Doktor, zedník, zahradník:  
 otesánci složení ze sady  
-                                                  výkonů,  
+            výkonů,  
 jak jim závidím každé odpoledne!  
 Ale ráno nesložený svět  
             volá své slovo     svého boha_
