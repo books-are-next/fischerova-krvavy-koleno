@@ -17,9 +17,9 @@ na čtverci stojí muž, jeden nos,
 dvě oči s bílým sklivcem,  
 oba v barevných hadřících,  
 tají to co je  
-                        spojuje  
+            spojuje  
 jak můžou jen tak jít, stát  
-             v kulatém ránu  
+            v kulatém ránu  
 zvoní telefony  
 někdo někomu volá  
 každý každému  

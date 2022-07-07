@@ -7,7 +7,7 @@ contentType: prose
 
 _Obrazy vycházejí z jediného bodu  
             a kladou se za sebou  
-                                     jako okamžiky._
+            jako okamžiky._
 
 </section>
 
@@ -17,7 +17,7 @@ _Je to první den, idea dobra
 anebo jenom JEST —  
 Vlast idejí  
 je vlast lásky,  
-                        tam nebo kdekoli._
+            tam nebo kdekoli._
 
 </section>
 
@@ -37,14 +37,14 @@ jeho dotazník na mě ráno co ráno
 <section>
 
 _Ale někde je vlast idejí  
-             jako vlast lásky,  
+            jako vlast lásky,  
 někde tam bydlím i já: ta, která nikomu  
-                                    neublížila, čistá  
+            neublížila, čistá  
 jak ocún, úsměv balón  
 vykopnutý do nebe,  
 určený všem.  
 Porušené stvoření!  
-             Slůvka z katechismů  
+            Slůvka z katechismů  
 tu stojí rovně, jsou to  
 kuželky  
 a ty mezi nimi musíš projít,  

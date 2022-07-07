@@ -6,14 +6,14 @@ contentType: prose
 <section>
 
 _Čas není spád, nýbrž pád  
-                         z Ano do Ne  
-                         z Ne do zeleně —  
-                                     to čas sčítá hrušky s jablky!  
+            z Ano do Ne  
+            z Ne do zeleně —  
+            to čas sčítá hrušky s jablky!  
 Čas je propad  
 dolů do nitra duté země  
 kde duní činy, zločiny otčiny  
-             otloukané o bílé kosti  
-                                      lidskosti_
+            otloukané o bílé kosti  
+            lidskosti_
 
 </section>
 
@@ -43,7 +43,7 @@ A ty, člověče kopřiv, bdi a neumdlévej!
 <section>
 
 _A za to dostaneš  
-                                  půvab toho všeho,  
+            půvab toho všeho,  
 tklivý půvab běhu po zelené trávě  
             kde roste všelidská zelenina  
             a humanitní ovoce.  
@@ -52,7 +52,7 @@ Ty poutník nechce. Hledá
 Hledá Iustícii. Malíček Grácie.  
 Hledá bílé kosti lidskosti —  
 ach, a po těch doskákat  
-                         jak po panáku  
+            jak po panáku  
 doprostřed vesmíru  
 kde v bufetu Panenka Maria  
             rozdává svatý obrázky  

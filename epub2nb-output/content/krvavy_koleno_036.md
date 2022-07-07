@@ -6,8 +6,8 @@ contentType: prose
 <section>
 
 _I kdyby to všechno mělo být jen  
-                                                epizodou  
-              výkřikem v dějinách vesmíru_
+            epizodou  
+            výkřikem v dějinách vesmíru_
 
 </section>
 
@@ -15,15 +15,15 @@ _I kdyby to všechno mělo být jen
 
 _dá se leda stát  
 s hledím zdviženým  
-              vůči zhůvěřilosti své  
-                                       i cizí —_
+            vůči zhůvěřilosti své  
+            i cizí —_
 
 </section>
 
 <section>
 
          _jak rytíř Naděje, své Paní,  
-                na balkóně s výhledem  
-                                          na věčnost_
+            na balkóně s výhledem  
+            na věčnost_
 
 </section>

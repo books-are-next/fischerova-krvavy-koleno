@@ -18,7 +18,7 @@ svůj obraz v druhém,
 lebka vyrůstá z lebky,  
 je to kolotoč, jako dějiny,  
 skáčeš z autíčka  
-                        na slona  
+            na slona  
 hraje hudba  
 podává se klobása a cukrová vata.  
 Sedíš na bílém koníku,  
@@ -26,13 +26,13 @@ na černém koníku sedíš ty před pěti lety
 na kohoutu je ona.  
 Co na ní vidíš? Prázdná nádoba,  
 světlé vlasy, světlé oči, světlý  
-                                   úsměv,  
+            úsměv,  
 včely se slétly, aby do ní  
            nakladly med,  
 tak to se ti líbí? V masce přichází  
 smrtka,  
 ne, je to jen maska  
-                                    smrti,  
+            smrti,  
 ale kde je tedy ona?  
 Všechna naše já obsadila kolotoč  
 mávají na sebe  

@@ -13,14 +13,14 @@ jsoucí i nejsoucí chvíle.
 Říkají že nemám  
 chodit tam za konec, kde bydlí  
 nehotový svět, kamenící  
-                                                 každou vteřinou…  
+            každou vteřinou…  
 Kde cesta je socha cesty,  
 ze snů a z hořčice a ze slz.  
 Odkud se sypou  
 domky z kategorií,  
 krátký spoj metafory, oči jak kružítka  
-                                    v tunelu do prázdna,  
-                          slova!_
+            v tunelu do prázdna,  
+            slova!_
 
 </section>
 
@@ -47,7 +47,7 @@ To nejsem já. Někdo jiný
 chodil do lednice  
 ujídat kaviár. Dětství: housenka a motýl,  
 spojené jen  
-                        informací —  
+            informací —  
 a to je detail, král Říše Memorie:  
 detail působí bolest.  
 Matko, to my  

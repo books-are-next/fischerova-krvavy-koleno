@@ -8,14 +8,14 @@ contentType: prose
 _Mlčívali jsme v tramvajích  
 cestou kolem ohrad z vlnitého plechu  
 sami kolotající drogerie špatných úmyslů  
-                                    a dobrých nápadů  
+            a dobrých nápadů  
 na cestě Nikam.  
 Tam stál chrám Techniky  
 z novinového papíru  
 s okny z lepenky  
 s věží ze sirek  
 s oltářem Industrie odkud se lily  
-                                                všechny alkoholy —  
+            všechny alkoholy —  
 vzduchem poletovali  
 Andělé pitvornosti, pili vodku  
 a přikusovali kadidlo revoluce.  
@@ -35,6 +35,6 @@ konečně za slova, pryč,
 tam kde jsi vypálen, vykoupán,  
 navždy ocejchován  
            a z cejchu vzlínají  
-                       všechny otázky!_
+            všechny otázky!_
 
 </section>

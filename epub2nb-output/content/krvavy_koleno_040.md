@@ -7,10 +7,10 @@ contentType: prose
 
 > _Jaroslavu Seifertovi_
 
-                   _Měsíční polívka,  
-                   matný žloutek na noční obloze,  
-                   slaná žlutá poezie,  
-                   to, z čeho žiju_
+            _Měsíční polívka,  
+            matný žloutek na noční obloze,  
+            slaná žlutá poezie,  
+            to, z čeho žiju_
 
 </section>
 
