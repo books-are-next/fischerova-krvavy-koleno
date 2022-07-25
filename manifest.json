@@ -8,8 +8,8 @@
   "edition": "Poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fischerova-krvavy-koleno-70e2be9",
-  "revision": "70e2be9",
+  "identifier": "fischerova-krvavy-koleno-bea3a0a",
+  "revision": "bea3a0a",
   "readingOrder": [
     "promo.html",
     "krvavy_koleno_005.html",
@@ -50,12 +50,11 @@
     "krvavy_koleno_040.html",
     "krvavy_koleno_041.html",
     "krvavy_koleno_042.html",
-    "krvavy_koleno_043.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Jul 25 2022 13:34:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658756084380
+    "date": "Mon Jul 25 2022 13:43:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658756603721
   },
   "documents": [
     {
@@ -819,7 +818,7 @@
       "role": "chapter",
       "order": 38,
       "prev": "krvavy_koleno_041.html",
-      "next": "krvavy_koleno_043.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -831,34 +830,14 @@
       ]
     },
     {
-      "title": "Krvavý koleno",
-      "file": "krvavy_koleno_043.html",
-      "words": 47,
-      "chars": 311,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 39,
-      "prev": "krvavy_koleno_042.html",
-      "next": "about.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 100,
-      "chars": 687,
-      "ideas": 8,
+      "words": 133,
+      "chars": 872,
+      "ideas": 16,
       "role": "about",
       "order": null,
-      "prev": "krvavy_koleno_043.html",
+      "prev": "krvavy_koleno_042.html",
       "next": null,
       "toc": [
         {
@@ -873,14 +852,14 @@
   ],
   "totals": {
     "all": {
-      "words": 4603,
-      "chars": 25817,
-      "ideas": 1086
+      "words": 4589,
+      "chars": 25691,
+      "ideas": 1082
     },
     "chapters": {
-      "words": 4497,
-      "chars": 25092,
-      "ideas": 1074
+      "words": 4450,
+      "chars": 24781,
+      "ideas": 1062
     }
   }
 }
