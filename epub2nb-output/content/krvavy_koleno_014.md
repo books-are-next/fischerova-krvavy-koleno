@@ -1,11 +1,11 @@
 ---
 title: Cesta nikam
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Mlčívali jsme v tramvajích  
+Mlčívali jsme v tramvajích  
 cestou kolem ohrad z vlnitého plechu  
 sami kolotající drogerie špatných úmyslů  
             a dobrých nápadů  
@@ -20,13 +20,13 @@ vzduchem poletovali
 Andělé pitvornosti, pili vodku  
 a přikusovali kadidlo revoluce.  
 To smrdělo jak konec prázdnin.  
-Je toto člověk? Je toto Bůh?_
+Je toto člověk? Je toto Bůh?
 
 </section>
 
 <section>
 
-_Bydlela tam ještě Poezie  
+Bydlela tam ještě Poezie  
 lila se z bledých střev města  
 za ní jsme běhali  
 smečka zoufalců a čekatelů —  
@@ -35,6 +35,6 @@ konečně za slova, pryč,
 tam kde jsi vypálen, vykoupán,  
 navždy ocejchován  
            a z cejchu vzlínají  
-            všechny otázky!_
+            všechny otázky!
 
 </section>

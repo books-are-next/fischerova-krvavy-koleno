@@ -1,11 +1,11 @@
 ---
 title: Houpačka v hlubinách chaosu
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Někdy přicházejí mrtví. Vlídnější  
+Někdy přicházejí mrtví. Vlídnější  
           než démoni,  
 opakují že nás milují  
 míchají vodový guláš  
@@ -20,7 +20,7 @@ Odkud se sypou
 domky z kategorií,  
 krátký spoj metafory, oči jak kružítka  
             v tunelu do prázdna,  
-            slova!_
+            slova!
 
 </section>
 
@@ -40,7 +40,7 @@ do kuchyně najíst._
 
 <section>
 
-_V kuchyni je chleba s máslem  
+V kuchyni je chleba s máslem  
           a hořčicí.  
 Bydlí tam dětství.  
 To nejsem já. Někdo jiný  
@@ -54,6 +54,6 @@ Matko, to my
 přicházíme za mrtvými,  
 kameníme každou vteřinou, jsme  
 sochy z hořčice, jinak  
-nemůžeme žít._
+nemůžeme žít.
 
 </section>

@@ -1,11 +1,11 @@
 ---
 title: A přece se hýbeme dopředu, dozadu, do stran
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_A proč by to mělo  
+A proč by to mělo  
             dopadnout dobře?  
 Proč bych si měla myslet,  
 že jsem lepší než kdokoli, kdo tady trpěl  
@@ -39,6 +39,6 @@ nebe nám mává sebou
             jako spodničkou  
 a posílá své navštívenky,  
 dnes o páté přijde doktor,  
-vstaň, utři stůl, nachystej čaj._
+vstaň, utři stůl, nachystej čaj.
 
 </section>

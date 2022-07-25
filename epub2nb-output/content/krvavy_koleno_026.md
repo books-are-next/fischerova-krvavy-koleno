@@ -1,11 +1,11 @@
 ---
 title: Trajekt Livorno–Sardínie
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Slyším slova, jak ke mně  
+Slyším slova, jak ke mně  
            přicházejí, odvážná,  
            seřazená  
             jak tahy štětce  
@@ -42,6 +42,6 @@ Má víra v to že to zase
            který má lidskou tvář  
            smutné obočí i oči  
            a váhavý, jasný úsměv  
-            pro tebe a pro mě_
+            pro tebe a pro mě
 
 </section>

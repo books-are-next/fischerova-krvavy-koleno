@@ -1,17 +1,17 @@
 ---
 title: Stroj světa
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Vyráběli lásku  
+Vyráběli lásku  
 jako nelásku  
 ve stroji světa  
 tedy čekali  
 až se spustí  
 stroj milosti  
             nekonečné  
-            věčné_
+            věčné
 
 </section>

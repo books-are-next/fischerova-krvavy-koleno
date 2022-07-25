@@ -1,29 +1,29 @@
 ---
 title: Epizoda
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_I kdyby to všechno mělo být jen  
+I kdyby to všechno mělo být jen  
             epizodou  
-            výkřikem v dějinách vesmíru_
+            výkřikem v dějinách vesmíru
 
 </section>
 
 <section>
 
-_dá se leda stát  
+dá se leda stát  
 s hledím zdviženým  
             vůči zhůvěřilosti své  
-            i cizí —_
+            i cizí —
 
 </section>
 
 <section>
 
-         _jak rytíř Naděje, své Paní,  
+         jak rytíř Naděje, své Paní,  
             na balkóně s výhledem  
-            na věčnost_
+            na věčnost
 
 </section>

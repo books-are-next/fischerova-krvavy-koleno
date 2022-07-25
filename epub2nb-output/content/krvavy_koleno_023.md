@@ -1,11 +1,11 @@
 ---
 title: Jazyk je cizí slovo
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Když je to nejhorší,  
+Když je to nejhorší,  
 jazyk je neskladný a tvrdý, logický  
 jako adrenalín.  
 Jako všecka cizí slova.  
@@ -17,17 +17,17 @@ spolu nesouvisí? Obezdil se
 plotem nespojitých vteřin a  
             nemožností, světem rozsekaným jak cibule,  
             rozpáleným na pánvi,  
-            pochoutkou kanibalů?_
+            pochoutkou kanibalů?
 
 </section>
 
 <section>
 
-_Jsi horník v dole, musíš odpracovat  
+Jsi horník v dole, musíš odpracovat  
 všechny ty lichý hodiny,  
 bloudit budeš dlouho a sám  
 za řevu dětí a zvířat  
 kopajících tě vzhůru branou,  
-vzhůru branou Nového Jeruzaléma._
+vzhůru branou Nového Jeruzaléma.
 
 </section>

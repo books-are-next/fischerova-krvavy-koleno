@@ -1,11 +1,11 @@
 ---
 title: Svatá komedie
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Nevkročit  
+Nevkročit  
 do toho vchodu,  
 nad kterým je nápis  
 PORÁŽKA. Nejsem  
@@ -40,6 +40,6 @@ jsou tam všichni,
 Komedie i Pokora,  
 dokola  
 do krve  
-dohola._
+dohola.
 
 </section>

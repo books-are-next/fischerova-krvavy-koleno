@@ -1,6 +1,6 @@
 ---
 title: Měsíční polívka
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -16,7 +16,7 @@ contentType: prose
 
 <section>
 
-_tady i tam, v tomhle pokoji, kde bydlel básník,  
+tady i tam, v tomhle pokoji, kde bydlel básník,  
 už nemocný, chodil o berlích  
 a hleděl na rudé světlo továrního komína.  
 Viděl, že je to maják,  
@@ -30,6 +30,6 @@ k měsíci, dá si měsíční polívku, seshora
 je to všechno jasné, jako bůh,  
 člověk rozparcelovaný jak krajina s poli,  
 slepý cesty, jámy, meze, začne se smát, sůl  
-ho šimrá na patře._
+ho šimrá na patře.
 
 </section>

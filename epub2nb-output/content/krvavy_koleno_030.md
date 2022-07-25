@@ -1,22 +1,22 @@
 ---
 title: Jsou dušičky
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Génius je  
+Génius je  
            vyseté srdce přírody  
 ústa chryzantémy  
 co se usmívají do umírání  
            zespod, od slunce umrlých,  
-            světla zrcadla —_
+            světla zrcadla —
 
 </section>
 
 <section>
 
-_Kupte si svíčky a věnce, žlutou limonádu  
+Kupte si svíčky a věnce, žlutou limonádu  
            a cukrovou vatu!  
            Jsou dušičky…  
 A boudy stojí před hřbitovem,  
@@ -30,13 +30,13 @@ svět, jen děsivě přesná
 výseč, oko skákacího panáka,  
 z kterého nikdy neuměli vyskočit —  
 a pili rum a kmínku,  
-vypili výčepní lihovinu a odpluli k andělům —_
+vypili výčepní lihovinu a odpluli k andělům —
 
 </section>
 
 <section>
 
-_Chryzantémy ve váze srkají žlutou limonádu,  
+Chryzantémy ve váze srkají žlutou limonádu,  
             jsou dušičky  
 a já tě prosím, Pane:  
 Dej, ať ještě jednou  
@@ -55,13 +55,13 @@ jako dávno opuštěné město
         a klouzačkami dmoucích se záclon,  
 ale už bez lidí —  
 tam, kde teď všichni skřítci dětských let  
-            vynášejí z podzemí lesklé poklady._
+            vynášejí z podzemí lesklé poklady.
 
 </section>
 
 <section>
 
-_Pak tu budu stát  
+Pak tu budu stát  
             očištěná jak tuřín  
             zářivá jako mrkev  
 a lebka příběhu tu bude vlát  
@@ -69,6 +69,6 @@ a lebka příběhu tu bude vlát
 a já  
      vražená do oka skákacího panáka  
 uslyším jak prázdno v lebce příběhu  
-            se mi ozývá_
+            se mi ozývá
 
 </section>

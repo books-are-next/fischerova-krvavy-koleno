@@ -1,20 +1,20 @@
 ---
 title: V krvavém snu slov
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Už je to natvrdo a nedá se to vzít zpátky.  
+Už je to natvrdo a nedá se to vzít zpátky.  
 Všechno jde přímo a nevrhá stín,  
 takže ztrácí se člověk,  
-stín stínu, stín ve snu, sen stínu…_
+stín stínu, stín ve snu, sen stínu…
 
 </section>
 
 <section>
 
-_Čas se zužuje, roste jak pyramida.  
+Čas se zužuje, roste jak pyramida.  
 Cesta k ní je vroubena květy.  
 Pěvci předzpěvují  
             známé příběhy  
@@ -34,6 +34,6 @@ svůj příběh, oblouk svého dechu
 vržený do květů,  
             do stínu snu květů…  
 Pozná svůj příběh  
-            v krvavém snu slov?_
+            v krvavém snu slov?
 
 </section>

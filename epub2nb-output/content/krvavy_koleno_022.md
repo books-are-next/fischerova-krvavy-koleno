@@ -1,14 +1,14 @@
 ---
 title: Vajíčka a noviny a káva
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Vajíčka a noviny a káva  
+Vajíčka a noviny a káva  
 jsou první lží světa,  
 říkají, že je  
-            v pořádku._
+            v pořádku.
 
 </section>
 
@@ -25,7 +25,7 @@ napjal luk a zasáhl ho
 
 <section>
 
-_Jaký pořádek, když každé  
+Jaký pořádek, když každé  
 ráno je postavena archa  
 a zvířata se předhánějí  
             v rychlosti,  
@@ -43,19 +43,19 @@ a nad tím anděl, nesmířen jako Jehú, volá:
 _Jaký pořádek?  
 Noviny tvého srdce  
 jsou černé jako noc  
-a ošklivé jako Medúza!__
+a ošklivé jako Medúza!_
 
 </section>
 
 <section>
 
-_Na vlnách soucitné kávy  
+Na vlnách soucitné kávy  
 pluje Noé ránem dál  
 kolem zdvihajících se rolet krámů  
 a blouznivých květin  
 které otevírají zavírají  
             své zářivé plátky  
 a vydechují lítost  
-kterou je vytapetován svět_
+kterou je vytapetován svět
 
 </section>

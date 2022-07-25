@@ -1,11 +1,11 @@
 ---
 title: Neznáme tvar citů
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Trojúhelník nenávisti,  
+Trojúhelník nenávisti,  
 kruh lásky,  
 čtverec osudu… neznáme  
 tvar citů. Ale jejich barvy  
@@ -16,13 +16,13 @@ s korunou, falešná karta,
 kterou tu pohodily děti:  
 ty jsou modré a běhají  
             po zahradě  
-a hledají schované figurky zvířat._
+a hledají schované figurky zvířat.
 
 </section>
 
 <section>
 
-_Svět je plný lásky jak balón  
+Svět je plný lásky jak balón  
 a stejně zranitelný,  
 všechny tvoje životy se v pokoji pomalu  
             rozloží  
@@ -41,6 +41,6 @@ Hirošima, je to Berlín, tisíc
 a láska dofukuje svět  
 a někdo pláče  
 Hirošima, hloh, mrtvý balónek  
-a pořád někdo pláče_
+a pořád někdo pláče
 
 </section>

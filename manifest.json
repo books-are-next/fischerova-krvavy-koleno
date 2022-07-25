@@ -1,0 +1,886 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Krvavý koleno",
+  "author": "Sylva Fischerová",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "fischerova-krvavy-koleno-70e2be9",
+  "revision": "70e2be9",
+  "readingOrder": [
+    "promo.html",
+    "krvavy_koleno_005.html",
+    "krvavy_koleno_006.html",
+    "krvavy_koleno_007.html",
+    "krvavy_koleno_008.html",
+    "krvavy_koleno_009.html",
+    "krvavy_koleno_010.html",
+    "krvavy_koleno_011.html",
+    "krvavy_koleno_012.html",
+    "krvavy_koleno_013.html",
+    "krvavy_koleno_014.html",
+    "krvavy_koleno_015.html",
+    "krvavy_koleno_016.html",
+    "krvavy_koleno_017.html",
+    "krvavy_koleno_018.html",
+    "krvavy_koleno_019.html",
+    "krvavy_koleno_020.html",
+    "krvavy_koleno_021.html",
+    "krvavy_koleno_022.html",
+    "krvavy_koleno_023.html",
+    "krvavy_koleno_024.html",
+    "krvavy_koleno_025.html",
+    "krvavy_koleno_026.html",
+    "krvavy_koleno_027.html",
+    "krvavy_koleno_028.html",
+    "krvavy_koleno_029.html",
+    "krvavy_koleno_030.html",
+    "krvavy_koleno_031.html",
+    "krvavy_koleno_032.html",
+    "krvavy_koleno_033.html",
+    "krvavy_koleno_034.html",
+    "krvavy_koleno_035.html",
+    "krvavy_koleno_036.html",
+    "krvavy_koleno_037.html",
+    "krvavy_koleno_038.html",
+    "krvavy_koleno_039.html",
+    "krvavy_koleno_040.html",
+    "krvavy_koleno_041.html",
+    "krvavy_koleno_042.html",
+    "krvavy_koleno_043.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Mon Jul 25 2022 13:34:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658756084380
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "krvavy_koleno_005.html",
+      "toc": []
+    },
+    {
+      "title": "Krvavý koleno",
+      "file": "krvavy_koleno_005.html",
+      "words": 46,
+      "chars": 259,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "krvavy_koleno_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I.",
+      "file": "krvavy_koleno_006.html",
+      "words": 1,
+      "chars": 2,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "krvavy_koleno_005.html",
+      "next": "krvavy_koleno_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V krvavém snu slov",
+      "file": "krvavy_koleno_007.html",
+      "words": 116,
+      "chars": 594,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 3,
+      "prev": "krvavy_koleno_006.html",
+      "next": "krvavy_koleno_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V krvavém snu slov",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Brána osvícení",
+      "file": "krvavy_koleno_008.html",
+      "words": 105,
+      "chars": 588,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 4,
+      "prev": "krvavy_koleno_007.html",
+      "next": "krvavy_koleno_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Brána osvícení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stroj světa",
+      "file": "krvavy_koleno_009.html",
+      "words": 18,
+      "chars": 102,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 5,
+      "prev": "krvavy_koleno_008.html",
+      "next": "krvavy_koleno_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stroj světa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Neznáme tvar citů",
+      "file": "krvavy_koleno_010.html",
+      "words": 122,
+      "chars": 733,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 6,
+      "prev": "krvavy_koleno_009.html",
+      "next": "krvavy_koleno_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Neznáme tvar citů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Já, jako všichni",
+      "file": "krvavy_koleno_011.html",
+      "words": 68,
+      "chars": 373,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 7,
+      "prev": "krvavy_koleno_010.html",
+      "next": "krvavy_koleno_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Já, jako všichni",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Co je člověk",
+      "file": "krvavy_koleno_012.html",
+      "words": 214,
+      "chars": 1166,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 8,
+      "prev": "krvavy_koleno_011.html",
+      "next": "krvavy_koleno_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Co je člověk",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svět je plný květin",
+      "file": "krvavy_koleno_013.html",
+      "words": 125,
+      "chars": 633,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 9,
+      "prev": "krvavy_koleno_012.html",
+      "next": "krvavy_koleno_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svět je plný květin",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cesta nikam",
+      "file": "krvavy_koleno_014.html",
+      "words": 109,
+      "chars": 644,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 10,
+      "prev": "krvavy_koleno_013.html",
+      "next": "krvavy_koleno_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cesta nikam",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chleba není — však kdo?",
+      "file": "krvavy_koleno_015.html",
+      "words": 257,
+      "chars": 1440,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 11,
+      "prev": "krvavy_koleno_014.html",
+      "next": "krvavy_koleno_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Chleba není — však kdo?",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slepci",
+      "file": "krvavy_koleno_016.html",
+      "words": 118,
+      "chars": 610,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 12,
+      "prev": "krvavy_koleno_015.html",
+      "next": "krvavy_koleno_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slepci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jsou dny kdy neumím žít",
+      "file": "krvavy_koleno_017.html",
+      "words": 118,
+      "chars": 624,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 13,
+      "prev": "krvavy_koleno_016.html",
+      "next": "krvavy_koleno_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jsou dny kdy neumím žít",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Náhlý pocit",
+      "file": "krvavy_koleno_018.html",
+      "words": 75,
+      "chars": 513,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 14,
+      "prev": "krvavy_koleno_017.html",
+      "next": "krvavy_koleno_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Náhlý pocit",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Obrazy vycházejí z jediného bodu",
+      "file": "krvavy_koleno_019.html",
+      "words": 148,
+      "chars": 774,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 15,
+      "prev": "krvavy_koleno_018.html",
+      "next": "krvavy_koleno_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Obrazy vycházejí z jediného bodu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II.",
+      "file": "krvavy_koleno_020.html",
+      "words": 1,
+      "chars": 3,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 16,
+      "prev": "krvavy_koleno_019.html",
+      "next": "krvavy_koleno_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mezi ikonami palčivých otázek",
+      "file": "krvavy_koleno_021.html",
+      "words": 173,
+      "chars": 969,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 17,
+      "prev": "krvavy_koleno_020.html",
+      "next": "krvavy_koleno_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mezi ikonami palčivých otázek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vajíčka a noviny a káva",
+      "file": "krvavy_koleno_022.html",
+      "words": 151,
+      "chars": 854,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 18,
+      "prev": "krvavy_koleno_021.html",
+      "next": "krvavy_koleno_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vajíčka a noviny a káva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jazyk je cizí slovo",
+      "file": "krvavy_koleno_023.html",
+      "words": 83,
+      "chars": 502,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 19,
+      "prev": "krvavy_koleno_022.html",
+      "next": "krvavy_koleno_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jazyk je cizí slovo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Houpačka v hlubinách chaosu",
+      "file": "krvavy_koleno_024.html",
+      "words": 160,
+      "chars": 899,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 20,
+      "prev": "krvavy_koleno_023.html",
+      "next": "krvavy_koleno_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Houpačka v hlubinách chaosu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "A přece se hýbeme dopředu, dozadu, do stran",
+      "file": "krvavy_koleno_025.html",
+      "words": 152,
+      "chars": 841,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 21,
+      "prev": "krvavy_koleno_024.html",
+      "next": "krvavy_koleno_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "A přece se hýbeme dopředu, dozadu, do stran",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Trajekt Livorno–Sardínie",
+      "file": "krvavy_koleno_026.html",
+      "words": 154,
+      "chars": 786,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 22,
+      "prev": "krvavy_koleno_025.html",
+      "next": "krvavy_koleno_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Trajekt Livorno–Sardínie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bílé kosti světa",
+      "file": "krvavy_koleno_027.html",
+      "words": 118,
+      "chars": 656,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 23,
+      "prev": "krvavy_koleno_026.html",
+      "next": "krvavy_koleno_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bílé kosti světa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "krvavy_koleno_028.html",
+      "words": 170,
+      "chars": 885,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 24,
+      "prev": "krvavy_koleno_027.html",
+      "next": "krvavy_koleno_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Krvavý koleno",
+      "file": "krvavy_koleno_029.html",
+      "words": 89,
+      "chars": 508,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 25,
+      "prev": "krvavy_koleno_028.html",
+      "next": "krvavy_koleno_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Krvavý koleno",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jsou dušičky",
+      "file": "krvavy_koleno_030.html",
+      "words": 228,
+      "chars": 1256,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 26,
+      "prev": "krvavy_koleno_029.html",
+      "next": "krvavy_koleno_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jsou dušičky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kde?",
+      "file": "krvavy_koleno_031.html",
+      "words": 146,
+      "chars": 918,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 27,
+      "prev": "krvavy_koleno_030.html",
+      "next": "krvavy_koleno_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kde?",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Faraónova dcera",
+      "file": "krvavy_koleno_032.html",
+      "words": 78,
+      "chars": 472,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 28,
+      "prev": "krvavy_koleno_031.html",
+      "next": "krvavy_koleno_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Faraónova dcera",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kdo dělá dějiny?",
+      "file": "krvavy_koleno_033.html",
+      "words": 123,
+      "chars": 694,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 29,
+      "prev": "krvavy_koleno_032.html",
+      "next": "krvavy_koleno_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kdo dělá dějiny?",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Králík hoplík",
+      "file": "krvavy_koleno_034.html",
+      "words": 111,
+      "chars": 654,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 30,
+      "prev": "krvavy_koleno_033.html",
+      "next": "krvavy_koleno_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Králík hoplík",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pláň Pravdy",
+      "file": "krvavy_koleno_035.html",
+      "words": 184,
+      "chars": 1021,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 31,
+      "prev": "krvavy_koleno_034.html",
+      "next": "krvavy_koleno_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pláň Pravdy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Epizoda",
+      "file": "krvavy_koleno_036.html",
+      "words": 37,
+      "chars": 193,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 32,
+      "prev": "krvavy_koleno_035.html",
+      "next": "krvavy_koleno_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Epizoda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svatá komedie",
+      "file": "krvavy_koleno_037.html",
+      "words": 146,
+      "chars": 829,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 33,
+      "prev": "krvavy_koleno_036.html",
+      "next": "krvavy_koleno_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svatá komedie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Musíš vést ty ovečky",
+      "file": "krvavy_koleno_038.html",
+      "words": 152,
+      "chars": 806,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 34,
+      "prev": "krvavy_koleno_037.html",
+      "next": "krvavy_koleno_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Musíš vést ty ovečky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kolotoč",
+      "file": "krvavy_koleno_039.html",
+      "words": 155,
+      "chars": 807,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 35,
+      "prev": "krvavy_koleno_038.html",
+      "next": "krvavy_koleno_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kolotoč",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Měsíční polívka",
+      "file": "krvavy_koleno_040.html",
+      "words": 112,
+      "chars": 606,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 36,
+      "prev": "krvavy_koleno_039.html",
+      "next": "krvavy_koleno_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Měsíční polívka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Řím",
+      "file": "krvavy_koleno_041.html",
+      "words": 36,
+      "chars": 193,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 37,
+      "prev": "krvavy_koleno_040.html",
+      "next": "krvavy_koleno_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Řím",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka",
+      "file": "krvavy_koleno_042.html",
+      "words": 51,
+      "chars": 374,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 38,
+      "prev": "krvavy_koleno_041.html",
+      "next": "krvavy_koleno_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Krvavý koleno",
+      "file": "krvavy_koleno_043.html",
+      "words": 47,
+      "chars": 311,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 39,
+      "prev": "krvavy_koleno_042.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 100,
+      "chars": 687,
+      "ideas": 8,
+      "role": "about",
+      "order": null,
+      "prev": "krvavy_koleno_043.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 4603,
+      "chars": 25817,
+      "ideas": 1086
+    },
+    "chapters": {
+      "words": 4497,
+      "chars": 25092,
+      "ideas": 1074
+    }
+  }
+}

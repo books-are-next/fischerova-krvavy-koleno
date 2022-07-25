@@ -1,11 +1,11 @@
 ---
 title: Chleba není — však kdo?
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Však kdo postaví nová okna  
+Však kdo postaví nová okna  
             staré katedrály?  
 Kdo popraví staré století  
             a jeho běsy  
@@ -34,39 +34,39 @@ jenom ne Boha
 jenom ne Boha jako otázku,  
 když ne odpověď  
 pro člověka, mistra —  
-            pomahače u smečky makaků…_
+            pomahače u smečky makaků…
 
 </section>
 
 <section>
 
-_Kdo popraví staré století?  
+Kdo popraví staré století?  
 Je čím dál těžší,  
 koberec z prostříleného salónu kam fičí  
             děravými okny,  
 barevná mapa násilí: Otesánek  
             co požral všecko beze zbytku,  
             bez ohledu na aritmetiku,  
-            tedy lidskost v kabátě —_
+            tedy lidskost v kabátě —
 
 </section>
 
 <section>
 
-_Jestliže věc je vyslovena, není to lék  
+Jestliže věc je vyslovena, není to lék  
 ani vykoupení.  
 Ukázat prstem neznamená nic.  
 Ale slovo bytuje ve světě  
 jak barva v růži, a co je svět?  
             vyšeptalý seznam věcí které se rodí  
             rostou a umírají  
-            v nudné melodii konce?_
+            v nudné melodii konce?
 
 </section>
 
 <section>
 
-_Když vystřelím slovo ze srdce,  
+Když vystřelím slovo ze srdce,  
 pohne kamenem v egyptské pyramidě —  
 dokud má růže všechny barvy  
 dokud třicet šest spravedlivých chodí po světě  
@@ -76,6 +76,6 @@ a ten prorok zakřičí a praskne
 a člověk půjde po jediném tónu houslí  
 až na kraj okršleku světa, kde usnul  
             Bůh,  
-            chlapec s popelavými vlásky…_
+            chlapec s popelavými vlásky…
 
 </section>
