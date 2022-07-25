@@ -1,11 +1,11 @@
 ---
 title: Bílé kosti světa
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Tyhle dějiny  
+Tyhle dějiny  
             jsou dějiny tebe.  
 Opakuješ všechny chyby lidstva.  
 To ty jsi dobývala  
@@ -17,13 +17,13 @@ Mávalas praporem
 jak socha revoluce.  
 Nechala jsi děti pomřít na mor.  
 A pak sis sedla do kouta  
-            a plakala…_
+            a plakala…
 
 </section>
 
 <section>
 
-_To je svět západu: kost na kosti,  
+To je svět západu: kost na kosti,  
       kámen na kameni,  
       hrad.  
       Rytíř ho dobude, pak  
@@ -38,6 +38,6 @@ _To je svět západu: kost na kosti,
       jako všechna ta zlatá a zářící  
             jablka východu  
       spěchající na pohřeb Řecka,  
-            do kotle Chairóneje._
+            do kotle Chairóneje.
 
 </section>

@@ -1,20 +1,20 @@
 ---
 title: Svět je plný květin
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_A proč zlo nevyhraje?  
+A proč zlo nevyhraje?  
 A proč se tolik podobá  
             tomu, cos miloval?  
-Co ti dá sílu přežít?_
+Co ti dá sílu přežít?
 
 </section>
 
 <section>
 
-_— To láska mate,  
+— To láska mate,  
 bere si těla a masky,  
 je krev a zrada  
 a směňuje se za sebe:  
@@ -25,13 +25,13 @@ skvělé figuríny žen,
 A tak mění, až vymění —  
 a srdce pláče, ale pak i ono směněno  
 vidí, že je nejmocnější  
-protože nejúskočnější…_
+protože nejúskočnější…
 
 </section>
 
 <section>
 
-_A to je podobnost:  
+A to je podobnost:  
 jako-člověk  
 v jako-světě  
 směněných srdcí,  
@@ -42,12 +42,12 @@ květiny nechali v ráně
 jdou si na trh pro nové  
 jejich zabití kráčejí proti nim  
 a vedle nich a s nimi  
-svět je plný květin_
+svět je plný květin
 
 </section>
 
 <section>
 
-_Svět je plný květin._
+Svět je plný květin.
 
 </section>

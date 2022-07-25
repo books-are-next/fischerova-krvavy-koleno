@@ -1,11 +1,11 @@
 ---
 title: Musíš vést ty ovečky
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Sen křísnul o sen  
+Sen křísnul o sen  
 a smrtka na kole  
 objíždí dědiny.  
 Co je zaostalé, vládne.  
@@ -35,6 +35,6 @@ skončíte u vlka, v gehenně složené
             z nelásky  
             a malé lásky  
             a z dýmajícího mozku, v který se nakonec  
-            proměnilo svědomí._
+            proměnilo svědomí.
 
 </section>

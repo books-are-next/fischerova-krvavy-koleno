@@ -1,20 +1,20 @@
 ---
 title: Slepci
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Lež nemá co získat —  
+Lež nemá co získat —  
             leda zase sebe  
 jak chodíš mezi jejími zborcenými domy  
-            lesy ze slov a zámlk_
+            lesy ze slov a zámlk
 
 </section>
 
 <section>
 
-_Lež pluje na třaslavých píscích  
+Lež pluje na třaslavých píscích  
 jako had jí svůj ocas, svůj život  
 aby se octla zase na začátku  
 Tam je šachovnice, ale s přestavěnými  
@@ -38,6 +38,6 @@ jeden od druhého, jeden k druhému
             nitkami pláče  
 těch se slepci drží  
 a tak  
-            táhnou dál_
+            táhnou dál
 
 </section>

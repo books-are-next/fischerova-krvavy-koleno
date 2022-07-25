@@ -1,31 +1,31 @@
 ---
 title: Co je člověk
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-__Co mohu vědět?  
+_Co mohu vědět?  
           Co mám činit?  
           V co smím doufat?_  
           ptá se člověk, a tak je sám  
-            otázkou_
+            otázkou
 
 </section>
 
 <section>
 
-_Otázka obalená masem  
+Otázka obalená masem  
 chodí po zemi,  
 voní k lentiškovému keři  
 a hledí na moře  
-plné ztuhlých kamenných oblud._
+plné ztuhlých kamenných oblud.
 
 </section>
 
 <section>
 
-_Co? Co tedy dnes?  
+Co? Co tedy dnes?  
 Lapat čas jak rybu? Lapat sebe  
             nebo tebe?  
 Čas je fluidum. A čím  
@@ -60,17 +60,17 @@ otesánci složení ze sady
             výkonů,  
 jak jim závidím každé odpoledne!  
 Ale ráno nesložený svět  
-            volá své slovo     svého boha_
+            volá své slovo     svého boha
 
 </section>
 
 <section>
 
-_Křupnutí rohlíku postaví  
+Křupnutí rohlíku postaví  
 babylónskou věž  
 a z její pece vypadne Kristus,  
 malá křičící ústa,  
 vezmu ho do náruče a budu nosit  
-až do večera._
+až do večera.
 
 </section>

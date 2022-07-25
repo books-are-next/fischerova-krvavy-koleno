@@ -1,11 +1,11 @@
 ---
 title: Kolotoč
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_A bránu stínu smrti viděl jsi?  
+A bránu stínu smrti viděl jsi?  
 Mluvil jsi s démony?  
 Viděl jsi jejich svítivé obličeje,  
 rudé zuby?  
@@ -41,6 +41,6 @@ staré já na mladé já
 děti loudí popkorn  
 a zmatení démoni pijou grog,  
 nikdo nechce jít pro brambůrky  
-tak kdy už bude konec?_
+tak kdy už bude konec?
 
 </section>

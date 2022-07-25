@@ -1,11 +1,11 @@
 ---
 title: Mezi ikonami palčivých otázek
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Mezi ikonami palčivých otázek  
+Mezi ikonami palčivých otázek  
 a v nejasnosti darů  
 Jak začít? Které slovo  
             vybrat?  
@@ -13,23 +13,23 @@ Je to Bůh —
 nebo Dobro —  
 nebo jenom položit  
             nohu před nohu  
-a stoupnout na propast z mlh —_
+a stoupnout na propast z mlh —
 
 </section>
 
 <section>
 
-_Svět valí před sebou  
+Svět valí před sebou  
             své haraburdy  
 a tlačí na srdce jak na míč  
 Jak dýchat natož  
-            vyprávět?_
+            vyprávět?
 
 </section>
 
 <section>
 
-_Žena se zlatými hodinkami na ruce bez prstů  
+Žena se zlatými hodinkami na ruce bez prstů  
             v Petrské čtvrti  
 chlapeček otloukající  
 měsíčky mandarinky o nemocniční chodbu  
@@ -50,17 +50,17 @@ skrz šiky andělů a čarou
             smlouvy —  
 _Tvoření Boha, byť dokonalé,  
 musí být nedokonalé, neboť Bůh nemůže  
-tvořit sebe sama.__
+tvořit sebe sama._
 
 </section>
 
 <section>
 
-_Logiko, ach ty logiko!  
+Logiko, ach ty logiko!  
 Kotli Středozemí, cikádo, která neumí nezpívat,  
 rajská zahrado oliv, ty nápodobo boha, modlo!  
 Ty! Ikona Ano, ikona Ne,  
 dvě děti si hrají  
-v písku nebe._
+v písku nebe.
 
 </section>

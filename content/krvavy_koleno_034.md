@@ -1,11 +1,11 @@
 ---
 title: Králík hoplík
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Řekla, že pocit, který ji jímá nad světem  
+Řekla, že pocit, který ji jímá nad světem  
 i nad sebou, je vděčnost.  
 Vděčnost za všechno.  
 Mlčela jsem, neřekla, že mě jímá  
@@ -22,6 +22,6 @@ na parapetu okna, papír je ze stažených vnitřností
 a celé podbarvuje  
 hudba neslyšitelného času  
 a ta tě bere za srdce, vykroucené, strašně bušící,  
-které občas poskočí jako králík hoplík._
+které občas poskočí jako králík hoplík.
 
 </section>

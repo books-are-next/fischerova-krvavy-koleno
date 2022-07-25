@@ -1,11 +1,11 @@
 ---
 title: Krvavý koleno
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Proč končí verš dřív než stránka?  
+Proč končí verš dřív než stránka?  
 Co se děje v prostoru za ním?  
 Vytváří se místo pro nádech, jako když první krok vzhůru  
 postaví rozhlednu, dobrý výhled po kraji?  
@@ -20,6 +20,6 @@ Jenže večer je to komora, ve které bydlí
 vedle slaniny a babiččiny podprsenky  
 jako v dětské hře:  
 jí lidský maso, pije lidskou krev  
-a leží na ničem._
+a leží na ničem.
 
 </section>

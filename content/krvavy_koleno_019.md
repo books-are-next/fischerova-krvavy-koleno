@@ -1,42 +1,42 @@
 ---
 title: Obrazy vycházejí z jediného bodu
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Obrazy vycházejí z jediného bodu  
+Obrazy vycházejí z jediného bodu  
             a kladou se za sebou  
-            jako okamžiky._
+            jako okamžiky.
 
 </section>
 
 <section>
 
-_Je to první den, idea dobra  
+Je to první den, idea dobra  
 anebo jenom JEST —  
 Vlast idejí  
 je vlast lásky,  
-            tam nebo kdekoli._
+            tam nebo kdekoli.
 
 </section>
 
 <section>
 
-_Jenže oni tomu říkají Metafora,  
+Jenže oni tomu říkají Metafora,  
 říkají Nesmíte si to brát  
 tak osobně.  
 Celý svět je strašně osobní,  
 jeho dotazník na mě ráno co ráno  
             vrhá kýty vzpomínek,  
             ty žerou čas jak naftu  
-            a řítí se pořád dál, na raketový pohon._
+            a řítí se pořád dál, na raketový pohon.
 
 </section>
 
 <section>
 
-_Ale někde je vlast idejí  
+Ale někde je vlast idejí  
             jako vlast lásky,  
 někde tam bydlím i já: ta, která nikomu  
             neublížila, čistá  
@@ -55,6 +55,6 @@ a chytají tě za slovo
 berou ti slovo  
 nemáš nic  
 jsi němá  
-Musíš začít znova._
+Musíš začít znova.
 
 </section>

@@ -1,11 +1,11 @@
 ---
 title: "*\_*\_*"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Čas není spád, nýbrž pád  
+Čas není spád, nýbrž pád  
             z Ano do Ne  
             z Ne do zeleně —  
             to čas sčítá hrušky s jablky!  
@@ -13,22 +13,22 @@ _Čas není spád, nýbrž pád
 dolů do nitra duté země  
 kde duní činy, zločiny otčiny  
             otloukané o bílé kosti  
-            lidskosti_
+            lidskosti
 
 </section>
 
 <section>
 
-_Čas je přepad  
+Čas je přepad  
 přes okraj ploché země  
 do kobky vesmíru  
-kde není ani bufet s pivem a hrachovkou_
+kde není ani bufet s pivem a hrachovkou
 
 </section>
 
 <section>
 
-_Čas je jen nápad  
+Čas je jen nápad  
            sester ctihodných, černých, co utekly  
            do klášterů ctnosti —  
            výchovný nápad boha  
@@ -36,13 +36,13 @@ _Čas je jen nápad
 A ty, člověče kopřiv, bdi a neumdlévej!  
 Čas je jen případ a bude zavřen do kriminálu  
            jara a léta a pozdních podzimů  
-— ale ty s ním!_
+— ale ty s ním!
 
 </section>
 
 <section>
 
-_A za to dostaneš  
+A za to dostaneš  
             půvab toho všeho,  
 tklivý půvab běhu po zelené trávě  
             kde roste všelidská zelenina  
@@ -57,6 +57,6 @@ doprostřed vesmíru
 kde v bufetu Panenka Maria  
             rozdává svatý obrázky  
             a nalívá hrachovku  
-            všem poutníkům i milým mrtvým…_
+            všem poutníkům i milým mrtvým…
 
 </section>

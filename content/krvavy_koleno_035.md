@@ -1,6 +1,6 @@
 ---
 title: Pláň Pravdy
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -13,18 +13,18 @@ _Kteří z těchto mužů
 
 <section>
 
-_Žádný! Nic!  
+Žádný! Nic!  
             Všichni ho předešli  
             tam odkud se vylívá  
             slovo a duch  
             nepachtili se jako on nad brkem,  
-            ale nad lidmi!_
+            ale nad lidmi!
 
 </section>
 
 <section>
 
-_A tak jako vždycky:  
+A tak jako vždycky:  
             pár mladíků dychtivých poznání  
             nebo spásy  
             a mudrc nebo prorok  
@@ -38,7 +38,7 @@ _A tak jako vždycky:
 Ano a Ne a Kdo a Co,  
 celé obžalované bytí  
             mizí za obzor,  
-            za čáru horizontu –_
+            za čáru horizontu –
 
 </section>
 
@@ -63,18 +63,18 @@ tady jsme krásu
 
 <section>
 
-_Pár mladíků  
+Pár mladíků  
             mezi tesanými ztuhlými sloupy  
             které nemají ani ten milý žlutý  
-            odstín lebek._
+            odstín lebek.
 
 </section>
 
 <section>
 
-            _Hranice obzoru je vždycky o kus blíž  
+            Hranice obzoru je vždycky o kus blíž  
             než si myslíme,  
             o plátek slaniny krájený  
-            rukama šestinedělek._
+            rukama šestinedělek.
 
 </section>

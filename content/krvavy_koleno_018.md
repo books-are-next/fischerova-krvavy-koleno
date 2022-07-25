@@ -1,11 +1,11 @@
 ---
 title: Náhlý pocit
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Náhlý pocit, že toto vidění světa jako nejasného,  
+Náhlý pocit, že toto vidění světa jako nejasného,  
 necelého, krutě nespojitého — kam je teprve násilím  
 implantován smysl, abychom přežili —  
 je původní a pravé. Osmyslený svět  
@@ -17,6 +17,6 @@ udělat ze zrůdy krasavce,
 svrchovaným malířským aktem, který z nespojitých linií  
 vytvoří matku sklánící se nad dítětem, Madonu,  
 jejíž mrtvý syn  
-má zachránit svět, který je taky na fašírku…_
+má zachránit svět, který je taky na fašírku…
 
 </section>

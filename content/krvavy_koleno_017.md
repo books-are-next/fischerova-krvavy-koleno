@@ -1,11 +1,11 @@
 ---
 title: Jsou dny kdy neumím žít
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Jsou dny kdy neumím žít  
+Jsou dny kdy neumím žít  
 nevím proč jde žena  
 proti mně, má jeden nos  
 a dvě oči  
@@ -38,6 +38,6 @@ hadřík sebe,
 čtverec  
 kruh  
 uprostřed na pykané  
-sedí bůh_
+sedí bůh
 
 </section>
