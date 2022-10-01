@@ -8,8 +8,8 @@
   "edition": "Poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fischerova-krvavy-koleno-47a690f",
-  "revision": "47a690f",
+  "identifier": "fischerova-krvavy-koleno-78e244c",
+  "revision": "78e244c",
   "readingOrder": [
     "promo.html",
     "krvavy_koleno_005.html",
@@ -53,8 +53,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:22:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486538063
+    "date": "Sat Oct 01 2022 15:49:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639353418
   },
   "documents": [
     {
